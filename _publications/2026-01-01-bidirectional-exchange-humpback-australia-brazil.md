@@ -3,7 +3,7 @@ title: "First evidence of bidirectional exchange between distant humpback whale 
 collection: publications
 category: manuscripts
 permalink: /publication/2026-bidirectional-exchange-humpback-australia-brazil
-excerpt: 'Documents the longest recorded movement of an individual humpback whale, revealing unprecedented connectivity between the east Australian and Brazilian breeding populations.'
+excerpt: 'Documents the longest recorded movement of an individual humpback whale, revealing unprecedented connectivity between the eastern Australian and Brazilian breeding populations.'
 date: 2026-01-01
 venue: 'Royal Society Open Science'
 paperurl: 'https://doi.org/10.1098/rsos.260251'

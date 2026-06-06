@@ -3,7 +3,7 @@ title: "Prevalence, composition, and behaviour of humpback whale groups containi
 collection: publications
 category: manuscripts
 permalink: /publication/2025-multiple-mother-calf-pairs-humpback
-excerpt: 'Characterises group composition and behaviour of humpback whale aggregations containing multiple mother-calf pairs in East Australian waters.'
+excerpt: 'Characterises group composition and behaviour of humpback whale aggregations containing multiple mother-calf pairs in eastern Australian waters.'
 date: 2025-01-01
 venue: 'Aquatic Mammals'
 paperurl: 'https://doi.org/10.1578/AM.51.2.2025.163'
