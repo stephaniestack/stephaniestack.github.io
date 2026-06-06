@@ -1,27 +1,28 @@
 ---
-title: "Cetacean population health and community science"
-excerpt: "Long-term population monitoring of multiple cetacean species in Hawaii and Australia, combining systematic survey methods with innovative community science platforms."
+title: "Dolphin population monitoring in Hawaii"
+excerpt: "Long-term monitoring of Hawaiian dolphin populations — spinner dolphins, false killer whales, and pygmy killer whales — to assess abundance, health, and the impacts of human disturbance."
 collection: portfolio
 ---
 
 ## Overview
 
-Robust population monitoring requires sustained, systematic effort over years and decades. Across my career I have contributed to long-term monitoring programmes for humpback whales, false killer whales, bottlenose dolphins, pantropical spotted dolphins, and other species in Hawaii and East Australia, combining classical survey methods with innovative approaches to data collection and community engagement.
+Robust population monitoring requires sustained, systematic effort over years and decades. Across more than a decade of fieldwork in Maui Nui and the wider main Hawaiian Islands, I have studied the abundance, health, and human impacts on resident dolphin populations, combining photo-identification, line-transect and mark-recapture survey methods, and aerial photogrammetry to track individuals and populations through time.
 
-## False killer whales in Hawaii
+## Spinner dolphins
 
-I contributed to long-term population monitoring of the critically endangered main Hawaiian Islands (MHI) insular false killer whale population, including photo-identification, abundance estimation, and body condition assessment using aerial photogrammetry. This population comprises fewer than 200 individuals and faces ongoing pressure from fisheries interactions and vessel disturbance.
+I led systematic surveys of spinner dolphins in Maui Nui, characterising their movement patterns and daytime resting habitat use. This work provided the scientific basis for time-area management measures intended to protect resting spinner dolphins from human disturbance under the Marine Mammal Protection Act.
 
-## Community science and photo-identification
+## Population health indicators
 
-I founded Match My Whale, a citizen science platform for humpback whale fluke matching, and co-organised the annual Great Whale Count community science event. More broadly, I have advocated for and demonstrated the scientific value of systematically collected community science data as a complement to traditional research programmes.
+Building on long-term photo-identification, I documented the incidence of dorsal fin collapse across odontocete species in Maui Nui — an externally visible indicator of individual and population health — establishing baseline rates against which future change can be assessed.
 
-## Dolphin population monitoring
+## False killer whales and pygmy killer whales
 
-In Maui Nui, I conducted systematic surveys of pantropical spotted dolphins and common bottlenose dolphins, contributing to abundance estimates, scarring rate analyses, and habitat use assessments that have informed NOAA management decisions.
+I have contributed to the health and body condition assessment of Hawaii's oceanic dolphins, including the critically endangered main Hawaiian Islands insular false killer whale population and free-ranging pygmy killer whales. Using aerial photogrammetry and longitudinal observation, this work quantifies body condition and documents the energetic consequences of anthropogenic disturbance and entanglement.
 
 ## Selected publications
 
-- Badger et al. (including **Stack**) (2025) — Accounting for spatiotemporal sampling bias in a long-term dataset establishes a decline in abundance of endangered false killer whales in the main Hawaiian Islands. *Endangered Species Research.* DOI: [10.3354/esr01423](https://doi.org/10.3354/esr01423)
-- Van Cise et al. (including **Stack**) (2021) — Mark-recapture estimates reveal declines in abundance of common bottlenose dolphin stocks in the main Hawaiian Islands. *Endangered Species Research.* DOI: [10.3354/esr01117](https://doi.org/10.3354/esr01117)
+- **Stack** et al. (2020) — Identifying spinner dolphin movement and behavioral patterns to inform conservation strategies in Maui Nui, Hawaii. *Marine Ecology Progress Series.* DOI: [10.3354/meps13347](https://doi.org/10.3354/meps13347)
+- **Stack** et al. (2019) — Incidence of odontocetes with dorsal fin collapse in Maui Nui, Hawaii. *Aquatic Mammals.* DOI: [10.1578/AM.45.3.2019.257](https://doi.org/10.1578/AM.45.3.2019.257)
+- Currie, Stirling, Olson, van Aswegen, Evans, **Stack** et al. (2026) — Body condition differs among social clusters and across years in endangered false killer whales in Hawaiʻi. *Endangered Species Research.* DOI: [10.3354/esr01505](https://doi.org/10.3354/esr01505)
 - Currie, van Aswegen, **Stack** et al. (2021) — Rapid weight loss in free ranging pygmy killer whales and the implications for anthropogenic disturbance of odontocetes. *Scientific Reports.* DOI: [10.1038/s41598-021-87514-2](https://doi.org/10.1038/s41598-021-87514-2)
