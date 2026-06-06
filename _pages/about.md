@@ -18,7 +18,7 @@ Prior to returning to graduate school, I spent a decade as Chief Research Biolog
 ## Research highlights
 
 - Led the documentation of the [longest recorded movement of an individual humpback whale](https://royalsocietypublishing.org/doi/10.1098/rsos.260251), linking breeding grounds on opposite sides of the globe and revealing unprecedented connectivity between the east Australian and Brazilian populations
-- First documentation of [male--male sexual behaviour in humpback whales](https://onlinelibrary.wiley.com/doi/10.1111/MMS.13119) (2024; Altmetric score: 1,582 -- top 5% of all research outputs)
+- First documentation of [male–male sexual behaviour in humpback whales](https://onlinelibrary.wiley.com/doi/10.1111/MMS.13119) (2024; Altmetric score: 1,582 — top 5% of all research outputs)
 - First documented sighting of a southern right whale north of the equator
 - First description of epimeletic behaviour directed toward an entangled humpback whale
 - First direct evidence of humpback whale calf nursing in Australian waters via animal-borne tagging
@@ -40,4 +40,4 @@ I have extensive hands-on experience with UAV-based aerial photogrammetry, photo
 
 ---
 
-*I am affiliated with the [Humpback Whale Sentinel Programme](https://www.griffith.edu.au) at Griffith University and [Saltwater Science](https://saltwaterscience.org). I am an Invited Participant in the Scientific Committee of the International Whaling Commission.*
+*I am affiliated with the [Humpback Whale Sentinel Programme](https://www.griffith.edu.au/griffith-sciences/southern-ocean-persistent-organic-pollutants-program) at Griffith University and [Saltwater Science](https://www.saltwaterscience.org/home).*
