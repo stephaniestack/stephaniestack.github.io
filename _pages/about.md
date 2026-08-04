@@ -17,7 +17,7 @@ Before beginning my PhD, I spent a decade as Chief Research Biologist at Pacific
 
 ## Research highlights
 
-- Led the documentation of the [longest recorded movement of an individual humpback whale](https://royalsocietypublishing.org/doi/10.1098/rsos.260251), revealing connectivity between the eastern Australian and Brazilian breeding populations.
+- Documented the [longest recorded movement of an individual humpback whale](https://royalsocietypublishing.org/doi/10.1098/rsos.260251), revealing connectivity between the eastern Australian and Brazilian breeding populations.
 - Published the first documentation of [male–male sexual behaviour in humpback whales](https://onlinelibrary.wiley.com/doi/10.1111/MMS.13119).
 - Co-authored the first confirmed record of a southern right whale north of the Equator.
 - Co-authored the first description of epimeletic behaviour directed toward an entangled humpback whale.
