@@ -7,30 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a marine mammalogist with over two decades of cetacean field experience, specialising in humpback whale behavioural ecology and conservation. My research bridges individual-level biology and population-level dynamics, with a particular focus on how climate-driven environmental change shapes the body condition, growth, and reproductive output of large whales.
+I am a marine mammalogist with more than 20 years of experience studying whales and dolphins throughout the Pacific. My research explores how the lives of individual whales reflect the changing oceans they inhabit, and how those individual responses scale up to influence populations. Combining long-term field studies with emerging technologies, I investigate the behavioural ecology, health, and conservation of large whales, with a particular focus on how climate-driven environmental change shapes body condition, growth, reproduction, and population dynamics.
 
-My doctoral research at Griffith University examines how variability in Antarctic feeding conditions propagates through the body condition of humpback whales across the eastern Australian (E1) migratory corridor. I combine drone-based photogrammetry, epigenetic ageing, and biologging to link individual energy allocation to growth, reproduction, and population dynamics under a changing climate.
+I am currently completing my PhD at Griffith University, with an expected completion date of January 2027. My research investigates how variability in Antarctic feeding conditions influences the body condition of humpback whales migrating along Australia's east coast. Using drone photogrammetry, epigenetic ageing, biologging, and long-term photo-identification, I examine how energy acquired on the feeding grounds shapes growth, reproduction, and resilience under a changing climate.
 
-Prior to returning to graduate school, I spent a decade as Chief Research Biologist at the Pacific Whale Foundation, where I designed and led field research programmes on humpback whales and odontocetes throughout the Pacific. My research has been cited over 700 times, has generated 37 citations across 33 policy documents, and has directly informed US federal regulation and Australian government policy.
+Before beginning my PhD, I spent a decade as Chief Research Biologist at Pacific Whale Foundation, where I designed and led field research programmes on humpback whales and odontocetes across Australia, Ecuador, Chile, Hawaiʻi, and elsewhere in the Pacific. My research has been cited more than 700 times, referenced in 37 government and international policy documents, and has contributed to conservation and management decisions in Australia and the United States.
 
 ---
 
 ## Research highlights
 
-- Led the documentation of the [longest recorded movement of an individual humpback whale](https://royalsocietypublishing.org/doi/10.1098/rsos.260251), linking breeding grounds on opposite sides of the globe and revealing unprecedented connectivity between the eastern Australian and Brazilian populations
-- First documentation of [male–male sexual behaviour in humpback whales](https://onlinelibrary.wiley.com/doi/10.1111/MMS.13119) (2024; Altmetric score: 1,582 — top 5% of all research outputs)
-- First documented sighting of a southern right whale north of the equator
-- First description of epimeletic behaviour directed toward an entangled humpback whale
-- First direct evidence of humpback whale calf nursing in Australian waters via animal-borne tagging
-
----
-
-## Selected metrics
-
-- **700+** citations
-- **37** citations in government and international policy documents
-- **30+** peer-reviewed publications as first, senior, or co-author
-- Research covered by the Washington Post, BBC, National Geographic, The Guardian, and People Magazine
+- Led the documentation of the [longest recorded movement of an individual humpback whale](https://royalsocietypublishing.org/doi/10.1098/rsos.260251), revealing connectivity between the eastern Australian and Brazilian breeding populations.
+- Co-authored the first documentation of [male–male sexual behaviour in humpback whales](https://onlinelibrary.wiley.com/doi/10.1111/MMS.13119).
+- Documented the first confirmed sighting of a southern right whale north of the Equator.
+- Published the first description of epimeletic behaviour directed toward an entangled humpback whale.
+- Provided the first direct evidence of humpback whale calf nursing in Australian waters using animal-borne video tags.
 
 ---
 
@@ -38,9 +29,9 @@ Prior to returning to graduate school, I spent a decade as Chief Research Biolog
 
 - Member, South Pacific Whale Research Consortium
 - Member, IWC Whale Watching Communications Steering Group
-- Invited Participant, Scientific Committee of the International Whaling Commission (IWC)
+- Invited Participant, Scientific Committee of the International Whaling Commission
 - Member, Society for Marine Mammalogy
 
 ---
 
-*I am affiliated with the [Humpback Whale Sentinel Programme](https://www.griffith.edu.au/griffith-sciences/southern-ocean-persistent-organic-pollutants-program) at Griffith University and [Saltwater Science](https://www.saltwaterscience.org/home).*
+*I am affiliated with the [Humpback Whale Sentinel Programme](https://www.griffith.edu.au) at Griffith University and [Saltwater Science](https://saltwaterscience.org).*
