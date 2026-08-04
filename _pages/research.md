@@ -1,11 +1,13 @@
 ---
 layout: archive
-title: "Research"
+title: "Research Themes"
 permalink: /research/
 author_profile: true
 ---
 
 {% include base_path %}
+
+My research spans a range of species, methods, and ecosystems, but is connected by four broad themes.
 
 <style>
 .research-grid {
