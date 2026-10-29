@@ -3,7 +3,7 @@ title: "Identifying spinner dolphin movement and behavioral patterns to inform c
 collection: publications
 category: manuscripts
 permalink: /publication/2020-spinner-dolphin-movement-maui
-excerpt: 'Documents movement patterns and daytime resting habitat use by spinner dolphins in Maui Nui, providing the scientific basis for time-area closures under the Marine Mammal Protection Act.'
+excerpt: 'Documents movement patterns and daytime resting habitat use by spinner dolphins in Maui Nui, providing the scientific basis for enhanced management action under the Marine Mammal Protection Act.'
 date: 2020-01-01
 venue: 'Marine Ecology Progress Series'
 paperurl: 'https://doi.org/10.3354/meps13347'
